@@ -1,5 +1,5 @@
 # BPSDMP-Kominfo_Web-register
-Student practical work project with bootstrap, PHP mailer
+Student practical work project with bootstrap, PHP mailer without framework PHP
 <h1 align="center">Hi 👋, I'm NarindraAA</h1>
 <h3 align="center">Junior Frontend developer from Indonesia</h3>
 <img align="right" alt="Create_Web" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
